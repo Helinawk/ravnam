@@ -1,0 +1,23 @@
+﻿  pascal.cpp
+C:\Users\ivanb\source\repos\pascal\pascal\pascal.cpp(36,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\ivanb\source\repos\pascal\pascal\pascal.cpp(53,48): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+C:\Users\ivanb\source\repos\pascal\pascal\pascal.cpp(55,5): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+C:\Users\ivanb\source\repos\pascal\pascal\pascal.cpp(55,18): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+C:\Users\ivanb\source\repos\pascal\pascal\pascal.cpp(55,25): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+C:\Users\ivanb\source\repos\pascal\pascal\pascal.cpp(62,44): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+C:\Users\ivanb\source\repos\pascal\pascal\pascal.cpp(63,6): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+C:\Users\ivanb\source\repos\pascal\pascal\pascal.cpp(63,29): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\ivanb\source\repos\pascal\pascal\pascal.cpp(83,23): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\ivanb\source\repos\pascal\pascal\pascal.cpp(84,11): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+C:\Users\ivanb\source\repos\pascal\pascal\pascal.cpp(84,89): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+C:\Users\ivanb\source\repos\pascal\pascal\pascal.cpp(85,23): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\ivanb\source\repos\pascal\pascal\pascal.cpp(86,11): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+C:\Users\ivanb\source\repos\pascal\pascal\pascal.cpp(86,63): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+C:\Users\ivanb\source\repos\pascal\pascal\pascal.cpp(90,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\ivanb\source\repos\pascal\pascal\pascal.cpp(91,37): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+C:\Users\ivanb\source\repos\pascal\pascal\pascal.cpp(91,53): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+C:\Users\ivanb\source\repos\pascal\pascal\pascal.cpp(91,81): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+C:\Users\ivanb\source\repos\pascal\pascal\pascal.cpp(92,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\ivanb\source\repos\pascal\pascal\pascal.cpp(93,27): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+C:\Users\ivanb\source\repos\pascal\pascal\pascal.cpp(93,55): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+  pascal.vcxproj -> C:\Users\ivanb\source\repos\pascal\x64\Debug\pascal.exe
